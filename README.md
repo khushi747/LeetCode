@@ -14,3 +14,11 @@ I appreciate any feedback or contributions to improve the quality of this reposi
 Your contributions are invaluable and help me to continuously learn and grow as a programmer.
 
 Happy coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/khushi747/LeetCode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
