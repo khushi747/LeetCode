@@ -25,6 +25,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/khushi747/LeetCode/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/khushi747/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -60,4 +61,8 @@ Happy coding!
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/khushi747/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
