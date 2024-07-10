@@ -25,6 +25,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/khushi747/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -50,4 +51,8 @@ Happy coding!
 | [1801-average-time-of-process-per-machine](https://github.com/khushi747/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/khushi747/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/khushi747/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
