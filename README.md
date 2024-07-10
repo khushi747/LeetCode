@@ -25,6 +25,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/khushi747/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -55,4 +56,8 @@ Happy coding!
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
