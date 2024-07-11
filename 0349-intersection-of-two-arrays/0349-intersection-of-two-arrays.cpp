@@ -12,7 +12,7 @@ public:
 
         while(i<size1 && j<size2){
             if(nums1[i]==nums2[j]){
-                if (i == 0 || nums1[i] != nums1[i - 1]) {
+                if (i == 0 || j==0|| nums1[i] != nums1[i - 1] || nums2[j] != nums2[j - 1]) {
                     v.push_back(nums1[i]);
                 }
                 i++;
