@@ -59,6 +59,7 @@ Happy coding!
 | [1827-invalid-tweets](https://github.com/khushi747/LeetCode/tree/master/1827-invalid-tweets) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/khushi747/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/khushi747/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/khushi747/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Prefix Sum
 |  |
 | ------- |
