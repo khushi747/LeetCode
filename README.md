@@ -25,6 +25,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/khushi747/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
@@ -33,6 +34,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/khushi747/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -75,5 +77,6 @@ Happy coding!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
