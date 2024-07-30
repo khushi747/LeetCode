@@ -26,6 +26,7 @@ Happy coding!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi747/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/khushi747/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/khushi747/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ Happy coding!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khushi747/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
