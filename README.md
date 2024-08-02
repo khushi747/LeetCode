@@ -34,6 +34,7 @@ Happy coding!
 | [0948-sort-an-array](https://github.com/khushi747/LeetCode/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/khushi747/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/khushi747/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/khushi747/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -121,4 +122,8 @@ Happy coding!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushi747/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/khushi747/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
