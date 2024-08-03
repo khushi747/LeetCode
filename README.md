@@ -32,6 +32,7 @@ Happy coding!
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/khushi747/LeetCode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/khushi747/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/khushi747/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/khushi747/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/khushi747/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -88,12 +89,14 @@ Happy coding!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/khushi747/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/khushi747/LeetCode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/khushi747/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
