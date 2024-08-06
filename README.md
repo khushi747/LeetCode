@@ -22,6 +22,7 @@ Happy coding!
 | ------- |
 | [0007-reverse-integer](https://github.com/khushi747/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khushi747/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/khushi747/LeetCode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/khushi747/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushi747/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/khushi747/LeetCode/tree/master/0125-valid-palindrome) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/khushi747/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -93,6 +95,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/khushi747/LeetCode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/khushi747/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/khushi747/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
