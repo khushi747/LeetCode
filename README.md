@@ -28,6 +28,7 @@ Happy coding!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi747/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushi747/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/khushi747/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/khushi747/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +111,7 @@ Happy coding!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/khushi747/LeetCode/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/khushi747/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -140,4 +142,8 @@ Happy coding!
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/khushi747/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/khushi747/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
