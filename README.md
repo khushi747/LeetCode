@@ -30,6 +30,7 @@ Happy coding!
 | [0035-search-insert-position](https://github.com/khushi747/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/khushi747/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushi747/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khushi747/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khushi747/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushi747/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/khushi747/LeetCode/tree/master/0792-binary-search) |
@@ -146,4 +147,5 @@ Happy coding!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushi747/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khushi747/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
