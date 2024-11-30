@@ -6,15 +6,8 @@ class Solution(object):
         """
         n=len(nums)
         j=0
-        k=0
         for i in range(0,n):
-            if nums[i]!=0:
-                k=k+1
-        for i in range(0,n):
-            if nums[i]!=0:
-                nums[j]=nums[i]
+            if(nums[i]!=0):
+                nums[j],nums[i]=nums[i],nums[j]
                 j=j+1
-        for i in range(k,n):
-            nums[i]=0
-            
         
